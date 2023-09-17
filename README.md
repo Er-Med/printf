@@ -1,11 +1,10 @@
 #0x11. C - printf
 
-Description
-This team project is part of the ALX Software engineering curriculum. _printf replicates the C standard library printf() function.
+Project Overview: As a component of the ALX Software Engineering curriculum, this team project focuses on replicating the printf() function from the C standard library.
 
-What you should learn from this project:
+Key Learning Objectives:
 
-How to use git in a team setting
-Applying variadic functions to a big project
-The complexities of printf
-Managing a lot of files and finding a good workflow
+1. Collaborative Git Usage: Gain proficiency in utilizing Git within a team environment.
+2. Application of Variadic Functions: Apply variadic functions to a substantial project.
+3. Understanding the Printf Function: Grasp the intricacies and nuances of the printf function.
+4. Effective Project Management: Learn to handle numerous files and establish an efficient workflow.
